@@ -1,0 +1,9 @@
+Log_ID,Timestamp,Date,Session_ID,Language,Query,Category,Matched_Question,Response,Confidence,Status
+1,2026-11-16 09:55:40,2026-11-16,demo-sess,English,What undergraduate courses are offered?,Courses,What undergraduate courses are offered?,"We offer B.Tech (CSE, AI & Data Science, ECE, Mechanical), B.Sc (Computer Science, Mathematics), B.Com (General, Accounting & Finance), and BBA.",0.5758,Answered
+2,2026-11-16 09:55:40,2026-11-16,demo-sess,English,What is the tuition fee structure?,Fees,What is the tuition fee structure?,"Annual tuition fees: B.Tech (₹1,10,000/yr), B.Sc Computer Science (₹70,000/yr), B.Com/BBA (₹60,000/yr), MBA/MCA (₹95,000/yr).",0.7829,Answered
+3,2026-11-16 09:55:40,2026-11-16,demo-sess,English,Are merit scholarships available?,Scholarships,Are merit scholarships available?,"Yes! Students scoring above 90% in 10+2 qualify for up to 50% tuition fee waiver. Government SC/ST, BC/MBC, and First-Graduate scholarships are also supported.",0.6223,Answered
+4,2026-11-16 09:55:40,2026-11-16,demo-sess,English,How are the placement records?,Placements,How are the placement records?,"Our Training & Placement Cell achieves a 94% placement rate with top recruiters including TCS, Infosys, Cognizant, Zoho, Accenture, and HCL. Highest package: ₹18 LPA; Average: ₹5.4 LPA.",0.4896,Answered
+5,2026-11-16 09:55:40,2026-11-16,demo-sess,Tamil,கட்டணம் எவ்வளவு?,Fees,What is the tuition fee structure?,"**[Fees]**
+
+Annual tuition fees: B.Tech (₹1,10,000/yr), B.Sc Computer Science (₹70,000/yr), B.Com/BBA (₹60,000/yr), MBA/MCA (₹95,000/yr).",0.5849,Answered
+6,2026-11-16 09:55:40,2026-11-16,demo-sess,English,Do you offer scuba diving degrees?,Unanswered,None,I couldn't find an exact verified match in the knowledge base. Please contact the Admissions Office (+91-44-2345-6789) or submit a Direct Enquiry.,0.0,Unanswered
